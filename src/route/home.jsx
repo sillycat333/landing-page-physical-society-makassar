@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { kegiatanData, books as bukuData } from "../components/data.jsx"
+import Sampul from "../assets/sampul.jpeg"
 
 function formatDate(dateStr) {
     if (!dateStr) return '';
@@ -29,7 +30,7 @@ export default function Home() {
                             PSI Cabang Makassar
                         </p>
                         <h1 className="text-3xl md:text-4xl lg:text-5xl font-extrabold leading-tight">
-                            Mewujudkan kemajuan Fisika di Kawasan Timur Indonesia
+                            Mewujudkan Kemajuan Fisika di Kawasan Timur Indonesia
                         </h1>
                         <p className="text-sm md:text-base text-blue-100 max-w-lg">
                             Physical Society of Indonesia (PSI) Cabang Makassar menjadi wadah bagi dosen,
@@ -53,11 +54,9 @@ export default function Home() {
                     </div>
 
                     <div className="relative">
-                        <div className="aspect-[16/9] w-full rounded-2xl overflow-hidden bg-blue-900/40 border border-blue-700/60 shadow-xl">
-                            <div className="w-full h-full flex items-center justify-center">
-                                <p className="text-sm text-center text-blue-100 px-6">
-                                    PSI Cabang Makassar
-                                </p>
+                        <div className="w-full rounded-2xl overflow-hidden bg-blue-900/40 border border-blue-700/60 shadow-xl">
+                            <div className="w-full h-full object-contain flex items-center justify-center">
+                                <img src={Sampul} alt="PSI Cabang Makassar" />
                             </div>
                         </div>
                         <div className="absolute -bottom-4 -right-4 bg-blue-600 text-xs md:text-sm px-4 py-2 rounded-xl shadow-lg">
