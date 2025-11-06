@@ -122,7 +122,6 @@ export const kegiatanData = [
         year: 2022,
         date: "2022-09-02",
         title: "Kuliah Umum di Universitas Mataram",
-        images: ["gambar.png"],
         images: ["/src/assets/kegiatan/2022/4.png"]
     },
     {
