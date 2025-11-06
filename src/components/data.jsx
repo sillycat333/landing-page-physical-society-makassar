@@ -42,18 +42,18 @@ export const books = [
         authors: ['Prof. Dr. Arifin, M.T.', 'Ida Laila, S.Si, M.Si'],
         cover: 'Buku5',
     },
-    {
-        id: 'buku-6',
-        title: 'Radiobiologi',
-        authors: ['Prof. Dr. Sri Suryani, DEA'],
-        cover: Buku6,
-    },
-    {
-        id: 'buku-7',
-        title: 'Biofisika',
-        authors: ['Prof. Dr. Sri Suryani, DEA'],
-        cover: Buku7,
-    },
+    // {
+    //     id: 'buku-6',
+    //     title: 'Radiobiologi',
+    //     authors: ['Prof. Dr. Sri Suryani, DEA'],
+    //     cover: Buku6,
+    // },
+    // {
+    //     id: 'buku-7',
+    //     title: 'Biofisika',
+    //     authors: ['Prof. Dr. Sri Suryani, DEA'],
+    //     cover: Buku7,
+    // },
     {
         id: 'buku-8',
         title: 'Ilmu Lingkungan',
