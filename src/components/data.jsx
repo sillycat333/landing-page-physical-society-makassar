@@ -104,348 +104,348 @@ export const kegiatanData = [
         year: 2022,
         date: "2022-01-14",
         title: "PKM di YPS Sorowako & SMAN 1 Luwu Timur",
-        images: ["/src/assets/kegiatan/2022/1.png"]
+        images: ["/kegiatan/2022/1.png"]
     },
     {
         year: 2022,
         date: "2022-08-01",
         title: "SMAN 1 Maros",
-        images: ["/src/assets/kegiatan/2022/2.png"]
+        images: ["/kegiatan/2022/2.png"]
     },
     {
         year: 2022,
         date: "2022-09-02",
         title: "Kerja Sama Unhas dan Universitas Mataram",
-        images: ["/src/assets/kegiatan/2022/3.png"]
+        images: ["/kegiatan/2022/3.png"]
     },
     {
         year: 2022,
         date: "2022-09-02",
         title: "Kuliah Umum di Universitas Mataram",
-        images: ["/src/assets/kegiatan/2022/4.png"]
+        images: ["/kegiatan/2022/4.png"]
     },
     {
         year: 2022,
         date: "2022-09-02",
         title: "SMAN 1 Mataram",
-        images: ["/src/assets/kegiatan/2022/5.png"]
+        images: ["/kegiatan/2022/5.png"]
     },
     {
         year: 2022,
         date: "2022-09-03",
         title: "Wisata di Gili Terawangan",
-        images: ["/src/assets/kegiatan/2022/6.png"]
+        images: ["/kegiatan/2022/6.png"]
     },
     {
         year: 2022,
         date: "2022-10-01",
         title: "SNF di Departemen Fisika",
-        images: ["/src/assets/kegiatan/2022/7.png"]
+        images: ["/kegiatan/2022/7.png"]
     },
     {
         year: 2022,
         date: "2022-10-21",
         title: "PKM SMKN 1 Pinrang",
-        images: ["/src/assets/kegiatan/2022/8.png"]
+        images: ["/kegiatan/2022/8.png"]
     },
     {
         year: 2022,
         date: "2022-10-22",
         title: "Kuliah Umum Bersama PSI di UKI Tora",
-        images: ["/src/assets/kegiatan/2022/9.png"]
+        images: ["/kegiatan/2022/9.png"]
     },
     {
         year: 2022,
         date: "2022-10-22",
         title: "PKL di PT PALE Tana Toraja",
-        images: ["/src/assets/kegiatan/2022/10.png"]
+        images: ["/kegiatan/2022/10.png"]
     },
     {
         year: 2022,
         date: "2022-10-22",
         title: "PKL di PT Malea Tana Toraja",
-        images: ["/src/assets/kegiatan/2022/11.png"]
+        images: ["/kegiatan/2022/11.png"]
     },
     {
         year: 2022,
         date: "2022-10-23",
         title: "Wisata Bersama PSI di Toraja",
-        images: ["/src/assets/kegiatan/2022/12.png"]
+        images: ["/kegiatan/2022/12.png"]
     },
     {
         year: 2023,
         date: "2023-02-02",
         title: "PKM di SMAN 3 Luwu",
-        images: ["/src/assets/kegiatan/2023/1.png"]
+        images: ["/kegiatan/2023/1.png"]
     },
     {
         year: 2023,
         date: "2023-02-03",
         title: "PKM di SMAN 1 Palopo",
-        images: ["/src/assets/kegiatan/2023/2.png"]
+        images: ["/kegiatan/2023/2.png"]
     },
     {
         year: 2023,
         date: "2023-08-05",
         title: "Kolokium di Malino",
-        images: ["/src/assets/kegiatan/2023/3.png"]
+        images: ["/kegiatan/2023/3.png"]
     },
     {
         year: 2023,
         date: "2023-08-21",
         title: "Pertemuan PSI & ICTAP",
-        images: ["/src/assets/kegiatan/2023/4.png"]
+        images: ["/kegiatan/2023/4.png"]
     },
     {
         year: 2023,
         date: "2023-09-04",
         title: "Wisata PSI di Pantai Al Fath Stira Paradise Pinrang",
-        images: ["/src/assets/kegiatan/2023/5.png"]
+        images: ["/kegiatan/2023/5.png"]
     },
     {
         year: 2023,
         date: "2023-09-04",
         title: "PKM PSI di SMAN 8 Pinrang",
-        images: ["/src/assets/kegiatan/2023/6.png"]
+        images: ["/kegiatan/2023/6.png"]
     },
     {
         year: 2023,
         date: "2023-09-04",
         title: "PKM di SMAN 2 & 8 Pinrang",
-        images: ["/src/assets/kegiatan/2023/7.png"]
+        images: ["/kegiatan/2023/7.png"]
     },
     {
         year: 2023,
         date: "2023-09-04",
         title: "Kunjungan ke PLTA Bakaru Pinrang",
-        images: ["/src/assets/kegiatan/2023/8.png"]
+        images: ["/kegiatan/2023/8.png"]
     },
     {
         year: 2023,
         date: "2023-09-23",
         title: "Family Gathering Elins",
-        images: ["/src/assets/kegiatan/2023/9.png"]
+        images: ["/kegiatan/2023/9.png"]
     },
     {
         year: 2023,
         date: "2023-09-24",
         title: "Kolokium",
-        images: ["/src/assets/kegiatan/2023/10.png"]
+        images: ["/kegiatan/2023/10.png"]
     },
     {
         year: 2023,
         date: "2023-10-12",
         title: "PKM di SMAN 3 Bulukumba",
-        images: ["/src/assets/kegiatan/2023/11.png"]
+        images: ["/kegiatan/2023/11.png"]
     },
     {
         year: 2023,
         date: "2023-10-13",
         title: "PKM di SMAN 18 Bulukumba",
-        images: ["/src/assets/kegiatan/2023/12.png"]
+        images: ["/kegiatan/2023/12.png"]
     },
     {
         year: 2023,
         date: "2023-10-13",
         title: "PKM di SMAN 13 Bulukumba",
-        images: ["/src/assets/kegiatan/2023/13.png"]
+        images: ["/kegiatan/2023/13.png"]
     },
     {
         year: 2023,
         date: "2023-10-30",
         title: "PKM di SMAN 2 Barru",
-        images: ["/src/assets/kegiatan/2023/14.png"]
+        images: ["/kegiatan/2023/14.png"]
     },
     {
         year: 2023,
         date: "2023-10-30",
         title: "PKM di SMAN 1 Pangkep",
-        images: ["/src/assets/kegiatan/2023/15.png"]
+        images: ["/kegiatan/2023/15.png"]
     },
     {
         year: 2023,
         date: "2023-10-18",
         title: "Kerjasama dengan Universitas Malaysia",
-        images: ["/src/assets/kegiatan/2023/16.png"]
+        images: ["/kegiatan/2023/16.png"]
     },
     {
         year: 2023,
         date: "2023-12-02",
         title: "Wisata di Rammang-Rammang",
-        images: ["/src/assets/kegiatan/2023/17.png"]
+        images: ["/kegiatan/2023/17.png"]
     },
     {
         year: 2023,
         date: "2023-12-02",
         title: "PKM & Kerjasama dengan Pesantren Tompo Bulu Maros",
-        images: ["/src/assets/kegiatan/2023/18.png"]
+        images: ["/kegiatan/2023/18.png"]
     },
     {
         year: 2023,
         date: "2023-12-02",
         title: "PKM di Pesantren Tafidzul Qur’an Ilmul Yaqin Tompo Bulu",
-        images: ["/src/assets/kegiatan/2023/19.png"]
+        images: ["/kegiatan/2023/19.png"]
     },
     {
         year: 2024,
         date: "2024-03-08",
         title: "PKM di SMAN 5 Barru",
-        images: ["/src/assets/kegiatan/2024/1.png"]
+        images: ["/kegiatan/2024/1.png"]
     },
     {
         year: 2024,
         date: "2024-05-11",
         title: "PKM & Wisata di Bulukumba",
-        images: ["/src/assets/kegiatan/2024/2.png"]
+        images: ["/kegiatan/2024/2.png"]
     },
     {
         year: 2024,
         date: "2024-05-13",
         title: "PKM di SMAN 9 Bulukumba",
-        images: ["/src/assets/kegiatan/2024/3.png"]
+        images: ["/kegiatan/2024/3.png"]
     },
     {
         year: 2024,
         date: "2024-05-13",
         title: "PKM di SMAN 3 Bulukumba",
-        images: ["/src/assets/kegiatan/2024/4.png"]
+        images: ["/kegiatan/2024/4.png"]
     },
     {
         year: 2024,
         date: "2024-05-18",
         title: "PKM Karang Taruna di Pangkep",
-        images: ["/src/assets/kegiatan/2024/5.png"]
+        images: ["/kegiatan/2024/5.png"]
     },
     {
         year: 2024,
         date: "2024-06-03",
         title: "PKM & Wisata di Labuan Bajo",
-        images: ["/src/assets/kegiatan/2024/6.png"]
+        images: ["/kegiatan/2024/6.png"]
     },
     {
         year: 2024,
         date: "2024-08-13",
         title: "ICIPs",
-        images: ["/src/assets/kegiatan/2024/7.png"]
+        images: ["/kegiatan/2024/7.png"]
     },
     {
         year: 2024,
         date: "2024-09-28",
         title: "Wisata PSI di Lolai Tana Toraja",
-        images: ["/src/assets/kegiatan/2024/8.png"]
+        images: ["/kegiatan/2024/8.png"]
     },
     {
         year: 2024,
         date: "2024-09-27",
         title: "PKM di SMAN 7 Wajo di Sengkang",
-        images: ["/src/assets/kegiatan/2024/9.png"]
+        images: ["/kegiatan/2024/9.png"]
     },
     {
         year: 2024,
         date: "2024-09-27",
         title: "PKL di PLN Nusantara Power Sengkang",
-        images: ["/src/assets/kegiatan/2024/10.jpeg"]
+        images: ["/kegiatan/2024/10.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 4 Palopo",
-        images: ["/src/assets/kegiatan/2024/11.jpeg"]
+        images: ["/kegiatan/2024/11.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 1 Luwu",
-        images: ["/src/assets/kegiatan/2024/12.jpeg"]
+        images: ["/kegiatan/2024/12.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 10 Luwu",
-        images: ["/src/assets/kegiatan/2024/13.jpeg"]
+        images: ["/kegiatan/2024/13.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 8 Luwu Utara",
-        images: ["/src/assets/kegiatan/2024/14.jpeg"]
+        images: ["/kegiatan/2024/14.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 1 Luwu Utara",
-        images: ["/src/assets/kegiatan/2024/15.jpeg"]
+        images: ["/kegiatan/2024/15.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-05",
         title: "Pelatihan Rancang Buat Praktikum Fisika bagi Guru SMA di Kota Palopo",
-        images: ["/src/assets/kegiatan/2024/16.jpeg"]
+        images: ["/kegiatan/2024/16.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-26",
         title: "SNF Makassar",
-        images: ["/src/assets/kegiatan/2024/17.jpeg"]
+        images: ["/kegiatan/2024/17.jpeg"]
     },
     {
         year: 2025,
         date: "2025-02-10",
         title: "PKM SMAN 1 Wonomulyo",
-        images: ["/src/assets/kegiatan/2025/1.jpeg"]
+        images: ["/kegiatan/2025/1.jpeg"]
     },
     {
         year: 2025,
         date: "2025-02-10",
         title: "PKM di SMAN 2 Polewali",
-        images: ["/src/assets/kegiatan/2025/2.jpeg"]
+        images: ["/kegiatan/2025/2.jpeg"]
     },
     {
         year: 2025,
         date: "2025-02-10",
         title: "PKM di SMAN 3 Polewali",
-        images: ["/src/assets/kegiatan/2025/3.jpeg"]
+        images: ["/kegiatan/2025/3.jpeg"]
     },
     {
         year: 2025,
         date: "2025-05-02",
         title: "PKL di PLTB Jeneponto",
-        images: ["/src/assets/kegiatan/2025/4.jpeg"]
+        images: ["/kegiatan/2025/4.jpeg"]
     },
     {
         year: 2025,
         date: "2025-05-02",
         title: "PKM di SMAN 1 Bantaeng",
-        images: ["/src/assets/kegiatan/2025/5.jpeg"]
+        images: ["/kegiatan/2025/5.jpeg"]
     },
     {
         year: 2025,
         date: "2025-05-02",
         title: "PKM di SMKN 3 Bantaeng",
-        images: ["/src/assets/kegiatan/2025/6.jpeg"]
+        images: ["/kegiatan/2025/6.jpeg"]
     },
     {
         year: 2025,
         date: "2025-07-26",
         title: "PKM di Kelompok Tani To Nepo Kabupaten Barru",
-        images: ["/src/assets/kegiatan/2025/7.png"]
+        images: ["/kegiatan/2025/7.png"]
     },
     {
         year: 2025,
         date: "2025-10-24",
         title: "PKM di SMAN 4 Gowa",
-        images: ["/src/assets/kegiatan/2025/8.jpeg"]
+        images: ["/kegiatan/2025/8.jpeg"]
     },
     {
         year: 2025,
         date: "2025-10-24",
         title: "PKM di SMAN 6 Gowa",
-        images: ["/src/assets/kegiatan/2025/9.jpeg"]
+        images: ["/kegiatan/2025/9.jpeg"]
     },
     {
         year: 2025,
         date: "2025-10-27",
         title: "PKM di SMA Muhammadiyah Limbung",
-        images: ["/src/assets/kegiatan/2025/10.jpeg"]
+        images: ["/kegiatan/2025/10.jpeg"]
     },
 ];
