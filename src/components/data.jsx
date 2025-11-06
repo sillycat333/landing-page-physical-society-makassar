@@ -7,6 +7,9 @@ import Buku7 from "../assets/buku-7.png"
 import Buku8 from "../assets/buku-8.png"
 import Buku9 from "../assets/buku-9.png"
 import Buku10 from "../assets/buku-10.png"
+import Buku12 from "../assets/buku-12.png"
+import Buku13 from "../assets/buku-13.png"
+import Buku14 from "../assets/buku-14.png"
 
 export const books = [
     {
@@ -74,6 +77,24 @@ export const books = [
         title: 'Super Kapasitor dan Biomassa',
         authors: ['Prof. Dr. Ir. Bidayatul Arminah, M.T'],
         cover: "Buku11",
+    },
+    {
+        id: 'buku-12',
+        title: 'Psikologi Pendidikan dan Pembelajaran',
+        authors: ['Nurlina', 'Nasir', 'Muh. Alka', 'Fitri Wahyuni'],
+        cover: Buku12,
+    },
+    {
+        id: 'buku-13',
+        title: 'Inovasi Belajar Fisika Abad 21',
+        authors: ['Prof. Dr. Nurlina, S. Si., M. Pd.', 'Nurfadilah, S. Pd., M. Pd.'],
+        cover: Buku13,
+    },
+    {
+        id: 'buku-14',
+        title: 'Fisika Dasar Berorientasi Merdeka Belajar Dilengkapi Asesmen Berbasis Kahoot',
+        authors: ['Prof. Dr. Nurlina, S. Si., M. Pd.'],
+        cover: Buku14,
     },
 ];
 
@@ -270,162 +291,162 @@ export const kegiatanData = [
         year: 2024,
         date: "2024-03-08",
         title: "PKM di SMAN 5 Barru",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/1.png"]
     },
     {
         year: 2024,
         date: "2024-05-11",
         title: "PKM & Wisata di Bulukumba",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/2.png"]
     },
     {
         year: 2024,
         date: "2024-05-13",
         title: "PKM di SMAN 9 Bulukumba",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/3.png"]
     },
     {
         year: 2024,
         date: "2024-05-13",
         title: "PKM di SMAN 3 Bulukumba",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/4.png"]
     },
     {
         year: 2024,
         date: "2024-05-18",
         title: "PKM Karang Taruna di Pangkep",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/5.png"]
     },
     {
         year: 2024,
         date: "2024-06-03",
         title: "PKM & Wisata di Labuan Bajo",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/6.png"]
     },
     {
         year: 2024,
         date: "2024-08-13",
         title: "ICIPs",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/7.png"]
     },
     {
         year: 2024,
         date: "2024-09-28",
         title: "Wisata PSI di Lolai Tana Toraja",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/8.png"]
     },
     {
         year: 2024,
         date: "2024-09-27",
         title: "PKM di SMAN 7 Wajo di Sengkang",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/9.png"]
     },
     {
         year: 2024,
         date: "2024-09-27",
         title: "PKL di PLN Nusantara Power Sengkang",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/10.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 4 Palopo",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/11.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 1 Luwu",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/12.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 10 Luwu",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/13.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 8 Luwu Utara",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/14.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-04",
         title: "PKM di SMAN 1 Luwu Utara",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/15.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-05",
         title: "Pelatihan Rancang Buat Praktikum Fisika bagi Guru SMA di Kota Palopo",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/16.jpeg"]
     },
     {
         year: 2024,
         date: "2024-10-26",
         title: "SNF Makassar",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2024/17.jpeg"]
     },
     {
         year: 2025,
         date: "2025-02-10",
         title: "PKM SMAN 1 Wonomulyo",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/1.jpeg"]
     },
     {
         year: 2025,
         date: "2025-02-10",
         title: "PKM di SMAN 2 Polewali",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/2.jpeg"]
     },
     {
         year: 2025,
         date: "2025-02-10",
         title: "PKM di SMAN 3 Polewali",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/3.jpeg"]
     },
     {
         year: 2025,
         date: "2025-05-02",
         title: "PKL di PLTB Jeneponto",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/4.jpeg"]
     },
     {
         year: 2025,
         date: "2025-05-02",
         title: "PKM di SMAN 1 Bantaeng",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/5.jpeg"]
     },
     {
         year: 2025,
         date: "2025-05-02",
         title: "PKM di SMKN 3 Bantaeng",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/6.jpeg"]
     },
     {
         year: 2025,
         date: "2025-07-26",
         title: "PKM di Kelompok Tani To Nepo Kabupaten Barru",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/7.png"]
     },
     {
         year: 2025,
         date: "2025-10-24",
         title: "PKM di SMAN 4 Gowa",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/8.jpeg"]
     },
     {
         year: 2025,
         date: "2025-10-24",
         title: "PKM di SMAN 6 Gowa",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/9.jpeg"]
     },
     {
         year: 2025,
         date: "2025-10-27",
         title: "PKM di SMA Muhammadiyah Limbung",
-        images: ["gambar.png"],
+        images: ["/src/assets/kegiatan/2025/10.jpeg"]
     },
 ];
