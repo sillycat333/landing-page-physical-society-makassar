@@ -2,14 +2,26 @@ import Buku1 from "../assets/buku-1.png"
 import Buku2 from "../assets/buku-2.png"
 import Buku3 from "../assets/buku-3.png"
 import Buku4 from "../assets/buku-4.png"
-import Buku6 from "../assets/buku-6.png"
-import Buku7 from "../assets/buku-7.png"
+// import Buku6 from "../assets/buku-6.png"
+// import Buku7 from "../assets/buku-7.png"
 import Buku8 from "../assets/buku-8.png"
 import Buku9 from "../assets/buku-9.png"
 import Buku10 from "../assets/buku-10.png"
 import Buku12 from "../assets/buku-12.png"
 import Buku13 from "../assets/buku-13.png"
 import Buku14 from "../assets/buku-14.png"
+
+import Buku15 from "../assets/buku-15.jpeg"
+import Buku16 from "../assets/buku-16.jpeg"
+import Buku17 from "../assets/buku-17.jpeg"
+import Buku18 from "../assets/buku-18.jpeg"
+import Buku19 from "../assets/buku-19.jpeg"
+import Buku20 from "../assets/buku-20.jpeg"
+import Buku21 from "../assets/buku-21.jpeg"
+import Buku22 from "../assets/buku-22.jpeg"
+import Buku23 from "../assets/buku-23.jpeg"
+import Buku24 from "../assets/buku-24.jpeg"
+
 
 export const books = [
     {
@@ -81,13 +93,13 @@ export const books = [
     {
         id: 'buku-12',
         title: 'Psikologi Pendidikan dan Pembelajaran',
-        authors: ['Nurlina', 'Nasir', 'Muh. Alka', 'Fitri Wahyuni'],
+        authors: ['Prof. Dr. Nurlina, S.Si., M.Pd.', 'Nasir', 'Muh. Alka', 'Fitri Wahyuni'],
         cover: Buku12,
     },
     {
         id: 'buku-13',
         title: 'Inovasi Belajar Fisika Abad 21',
-        authors: ['Prof. Dr. Nurlina, S. Si., M. Pd.', 'Nurfadilah, S. Pd., M. Pd.'],
+        authors: ['Prof. Dr. Nurlina, S.Si., M.Pd.', 'Nurfadilah, S.Pd., M.Pd.'],
         cover: Buku13,
     },
     {
@@ -95,6 +107,67 @@ export const books = [
         title: 'Fisika Dasar Berorientasi Merdeka Belajar Dilengkapi Asesmen Berbasis Kahoot',
         authors: ['Prof. Dr. Nurlina, S. Si., M. Pd.'],
         cover: Buku14,
+    },
+
+    {
+        id: 'buku-15',
+        title: 'Pengantar Telaah Kurikulum Merdeka pada Mata Pelajaran Fisika SMA Berbasis Kearifan Lokal',
+        authors: ['Prof. Dr. M. A. Martawijaya, M.Pd.', 'Mutahharah Hasyim', 'Mahir, S.Pd., M.Pd.'],
+        cover: Buku15,
+    },
+    {
+        id: 'buku-16',
+        title: 'Buku Ajar Perkembangan Peserta Didik',
+        authors: ['Prof. Dr. M. A. Martawijaya, M.Pd.', 'Mahir, S.Pd., M.Pd.'],
+        cover: Buku16,
+    },
+    {
+        id: 'buku-17',
+        title: 'Microteaching Pembelajaran Fisika',
+        authors: ['Prof. Dr. M. A. Martawijaya, M.Pd.', 'Mahir, S.Pd., M.Pd.', 'Mutahharah Hasyim'],
+        cover: Buku17,
+    },
+    {
+        id: 'buku-18',
+        title: 'Model Pembelajaran Fisika Berbasis Kearifan Lokal Untuk Kurikulum Merdeka',
+        authors: ['Prof. Dr. M. A. Martawijaya, M.Pd.', 'Mahir, S.Pd., M.Pd.'],
+        cover: Buku18,
+    },
+    {
+        id: 'buku-19',
+        title: 'Buku Ajar Belajar dan Pembelajaran Kognitif Peserta Didik Berbasis Kearifan Lokal',
+        authors: ['Prof. Dr. M. A. Martawijaya, M.Pd.', 'Mahir, S.Pd., M.Pd.'],
+        cover: Buku19,
+    },
+    {
+        id: 'buku-20',
+        title: 'Belajar dan Pembelajaran Sosial Peserta Didik Berbasis Kearifan Lokal',
+        authors: ['Prof. Dr. M. A. Martawijaya, M.Pd.', 'Mahir, S.Pd., M.Pd.'],
+        cover: Buku20,
+    },
+    {
+        id: 'buku-21',
+        title: '5 Teori Belajar dalam Pembelajaran Fisika',
+        authors: ['Drs. Abdul Haris, M.Si.', 'Mahir, S.Pd., M.Pd.'],
+        cover: Buku21,
+    },
+    {
+        id: 'buku-22',
+        title: 'Pembelajaran Konstruktif Terintegrasi Kearifan Lokal',
+        authors: ['Mahir, S.Pd., M.Pd.'],
+        cover: Buku22,
+    },
+    {
+        id: 'buku-23',
+        title: 'Pengantar Filsafat',
+        authors: ['Drs. Abdul Haris, M.Si.'],
+        cover: Buku23,
+    },
+    {
+        id: 'buku-24',
+        title: 'Buku Ajar Listrik Dinamis',
+        authors: ['Drs. Abdul Haris, M.Si.', 'Prof. Dr. Jasruddin, M.Si.', 'Prof. Dr. Patta Bundu, M.Ed.'],
+        cover: Buku24,
     },
 ];
 
