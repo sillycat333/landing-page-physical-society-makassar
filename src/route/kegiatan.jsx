@@ -77,7 +77,7 @@ export default function Kegiatan() {
                                         <div className="aspect-video overflow-hidden">
                                             <img
                                                 src={item.images[0]}
-                                                alt={item.title}
+                                                alt={item.images[0]}
                                                 className="w-full h-full object-cover"
                                             />
                                         </div>
