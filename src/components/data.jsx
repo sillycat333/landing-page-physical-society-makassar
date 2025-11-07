@@ -22,6 +22,25 @@ import Buku22 from "../assets/buku-22.jpeg"
 import Buku23 from "../assets/buku-23.jpeg"
 import Buku24 from "../assets/buku-24.jpeg"
 
+import Buku25 from "../assets/buku-25.png"
+import Buku26 from "../assets/buku-26.png"
+import Buku27 from "../assets/buku-27.png"
+import Buku28 from "../assets/buku-28.png"
+import Buku29 from "../assets/buku-29.png"
+import Buku30 from "../assets/buku-30.png"
+import Buku31 from "../assets/buku-31.png"
+import Buku32 from "../assets/buku-32.png"
+import Buku33 from "../assets/buku-33.png"
+import Buku34 from "../assets/buku-34.png"
+import Buku35 from "../assets/buku-35.png"
+import Buku36 from "../assets/buku-36.png"
+import Buku37 from "../assets/buku-37.png"
+import Buku38 from "../assets/buku-38.png"
+import Buku39 from "../assets/buku-39.png"
+import Buku40 from "../assets/buku-40.png"
+import Buku41 from "../assets/buku-41.png"
+import Buku42 from "../assets/buku-42.png"
+
 
 export const books = [
     {
@@ -168,6 +187,115 @@ export const books = [
         title: 'Buku Ajar Listrik Dinamis',
         authors: ['Drs. Abdul Haris, M.Si.', 'Prof. Dr. Jasruddin, M.Si.', 'Prof. Dr. Patta Bundu, M.Ed.'],
         cover: Buku24,
+    },
+
+    {
+        id: 'buku-25',
+        title: 'Energi',
+        authors: ['Dirga Kaso Sanusi'],
+        cover: Buku25,
+    },
+    {
+        id: 'buku-26',
+        title: 'Strategi Pembelajaran Fisika',
+        authors: ['Ihfa Indira Nurnaifah', 'Sukmawati Said', 'Nurul Mutmainnah Herman', 'Dirgah Kaso Sanusi', 'Ria Rezki Hamzah'],
+        cover: Buku26,
+    },
+    {
+        id: 'buku-27',
+        title: 'Integrasi Sains dan Nilai Islam dalam Pembelajaran Fisika di Perguruan Tinggi',
+        authors: ['Nurhilaliyah', 'Ria Rezki Hamzah', 'Dirgah Kaso Sanusi'],
+        cover: Buku27,
+    },
+    {
+        id: 'buku-28',
+        title: 'Ilmu-Ilmu Material: Prinsip, Karakterisasi, dan Aplikasinya',
+        authors: ['Resky Irfanita', 'Wahyuna Nur', 'Asnaeni Ansar', 'Sukmawati Said', 'Ni Wayan Mega Savira Utami'],
+        cover: Buku28,
+    },
+    {
+        id: 'buku-29',
+        title: 'Fisika Zat Padat Jilid 1',
+        authors: ['Subaer', 'Vicran Zharvan', 'Resky Irfanita'],
+        cover: Buku29,
+    },
+    {
+        id: 'buku-30',
+        title: 'Profesi Kependidikan',
+        authors: ['Syamsul Wahid S'],
+        cover: Buku30,
+    },
+    {
+        id: 'buku-31',
+        title: 'Mitigasi Bencana di lingkungan Kawasan Karst',
+        authors: ['Muhammad Arsyad', 'Arie Arma Arsyad'],
+        cover: Buku31,
+    },
+    {
+        id: 'buku-32',
+        title: 'Evaluasi Pembelajaran dalam Era Digital',
+        authors: ['Ihfa Indira Nurnaifah Idris'],
+        cover: Buku32,
+    },
+    {
+        id: 'buku-33',
+        title: 'Fisika Dasar 2',
+        authors: ['A. Jusriana dkk'],
+        cover: Buku33,
+    },
+    {
+        id: 'buku-34',
+        title: 'Fisika Optik: Teori, instrumen dan Aplikasinya',
+        authors: ['A. Jusriana dkk'],
+        cover: Buku34,
+    },
+    {
+        id: 'buku-35',
+        title: 'Fisika Dasar untuk Teknik Industri',
+        authors: ['A. Jusriana dkk'],
+        cover: Buku35,
+    },
+    {
+        id: 'buku-36',
+        title: 'Fisika Material: Prinsip, Aplikasi, dan Inovasi',
+        authors: ['A. Jusriana dkk'],
+        cover: Buku36,
+    },
+    {
+        id: 'buku-37',
+        title: 'Mengenal Scanning Electron Microscopy (SEM)',
+        authors: ['Subaer', 'Resky Irfanita', 'Armayani'],
+        cover: Buku37,
+    },
+    {
+        id: 'buku-38',
+        title: 'Fisika Kuantum',
+        authors: ['Subaer', 'Muh. Saleh', 'Sukmawati Said'],
+        cover: Buku38,
+    },
+    {
+        id: 'buku-39',
+        title: 'Medan Elektromagnetik',
+        authors: ['Sukmawati Said', 'Sri Agustini'],
+        cover: Buku39,
+    },
+    {
+        id: 'buku-40',
+        title: 'Interaksi Antar Faktor Fisis',
+        authors: ['Muh Tawil', 'Ahmad Dahlan'],
+        cover: Buku40,
+    },
+    {
+        id: 'buku-41',
+        title: 'FISIKA ZAT PADAT: GETARAN KISI-KISI, KRISTAL SATU DIMENSI, GETARAN KISI MODEL EINSTEIN DAN MODEL DEBYE',
+        authors: ['A. Jusriana', 'Ihfa Indira Nurnaifah Idris', 'Nurhasmi', 'Dirgah Kaso Sanusi'],
+        cover: Buku41,
+    },
+    {
+        id: 'buku-42',
+        title: 'Pengantar Radiasi Sinkrotron: Teknik Analisis dan Aplikasinya dalam Pengembangan Material Maju',
+        authors: ['Husain dkk'],
+        cover: Buku42,
     },
 ];
 
