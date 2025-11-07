@@ -4,7 +4,7 @@ export default function Buku() {
     return (
         <main className="bg-slate-50 min-h-screen">
             <div className="max-w-7xl mx-auto px-6 py-10 lg:px-8">
-                <header className="mb-8">
+                <div className="mb-8">
                     <h1 className="text-sm font-semibold tracking-widest text-blue-700 uppercase">
                         Koleksi Buku
                     </h1>
@@ -14,7 +14,7 @@ export default function Buku() {
                     <p className="mt-3 max-w-2xl text-sm md:text-base text-slate-600">
                         Daftar buku yang telah/akan dicetak oleh anggota Physical Society of Indonesia Cabang Makassar.
                     </p>
-                </header>
+                </div>
 
                 <section className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
                     {books.map((book) => (
@@ -36,7 +36,6 @@ export default function Buku() {
                                 <p className="mt-1 text-xs md:text-sm text-slate-600">
                                     {book.authors.join(', ')}
                                 </p>
-                                {/* If later you want buttons/links (e.g. detail / download), add them here */}
                             </div>
                         </article>
                     ))}

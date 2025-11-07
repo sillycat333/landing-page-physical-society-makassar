@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './global.css'
 import Home from './route/home.jsx'
 import Tentang from "./route/tentang.jsx"
+import ADART from "./route/art.jsx"
 import Navbar from "./components/nav.jsx"
 import Footer from "./components/footer.jsx"
 import {
@@ -42,9 +43,13 @@ const router = createBrowserRouter([
                 element: <Buku />
             },
             {
+                path: "/art",
+                element: <ADART />
+            },
+            {
                 path: "/tentang",
                 element: <Tentang />
-            }
+            },
         ]
     },
 ]);

@@ -7,6 +7,7 @@ const navItems = [
     { label: 'Home', href: '/' },
     { label: 'Kegiatan', href: '/kegiatan' },
     { label: 'Buku', href: '/buku' },
+    { label: 'AD ART', href: '/art' },
     { label: 'Tentang', href: '/tentang' },
 ];
 
