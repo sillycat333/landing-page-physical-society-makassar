@@ -340,7 +340,7 @@ export const kegiatanData = [
     {
         year: 2022,
         date: "2022-10-01",
-        title: "SNF di Departemen Fisika",
+        title: "Seminar Nasional Fisika Makassar 2022",
         images: ["/kegiatan/2022/7.png"]
     },
     {
@@ -471,6 +471,12 @@ export const kegiatanData = [
     },
     {
         year: 2023,
+        date: "2023-10-21",
+        title: "Seminar Nasional Fisika Makassar 2023",
+        images: ["/kegiatan/2023/10.jpeg"]
+    },
+    {
+        year: 2023,
         date: "2023-12-02",
         title: "Wisata di Rammang-Rammang",
         images: ["/kegiatan/2023/17.png"]
@@ -586,7 +592,7 @@ export const kegiatanData = [
     {
         year: 2024,
         date: "2024-10-26",
-        title: "SNF Makassar",
+        title: "Seminar Nasional Fisika Makassar 2024",
         images: ["/kegiatan/2024/17.jpeg"]
     },
     {
