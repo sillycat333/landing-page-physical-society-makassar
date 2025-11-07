@@ -1,5 +1,5 @@
 import logoPSI from '../assets/logo-psi.png';
-import { Mail } from 'lucide-react';
+import { Mail, Phone } from 'lucide-react';
 
 export default function Footer() {
     return (
@@ -27,16 +27,24 @@ export default function Footer() {
                             Contact Us
                         </p>
                         <address className="not-italic">
-                            <p>Sarijadi Blok 2 No 22 RT 008, RW 002</p>
-                            <p>Kel. Sarijadi, Kec. Sukasari</p>
-                            <p>Bandung, Jawa Barat, Indonesia 40151</p>
+                            <p>Prof. Dr. Arifin, M.T.</p>
+                            <p>Departemen Fisika, Fakultas MIPA, Universitas Hasanuddin</p>
+                            <p>Jl. Perintis Kemerdekaan Km. 10</p>
+                            <p>Kec. Tamalanrea, Kota Makassar, Prov. Sulawesi Selatan</p>
                         </address>
                         <a
-                            href="mailto:psi@fisika.or.id"
-                            className="mt-4 inline-flex items-center gap-2 text-blue-300 hover:text-white hover:underline transition-colors"
+                            href="mailto:arifinpide@gmail.com"
+                            className="mt-4 mr-4 inline-flex items-center gap-2 text-blue-300 hover:text-white hover:underline transition-colors"
                         >
                             <Mail size={16} />
-                            psi@fisika.or.id
+                            arifinpide@gmail.com
+                        </a>
+                        <a
+                            href="tel:+6281355470011"
+                            className="mt-2 inline-flex items-center gap-2 text-blue-300 hover:text-white hover:underline transition-colors"
+                        >
+                            <Phone size={16} />
+                            +62 813-5547-0011
                         </a>
                     </div>
                 </div>
