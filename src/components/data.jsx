@@ -473,7 +473,7 @@ export const kegiatanData = [
         year: 2023,
         date: "2023-10-21",
         title: "Seminar Nasional Fisika Makassar 2023",
-        images: ["/kegiatan/2023/10.jpeg"]
+        images: ["/kegiatan/2023/snf23.jpeg"]
     },
     {
         year: 2023,
