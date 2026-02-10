@@ -228,7 +228,7 @@ export const books = [
     {
         id: 'buku-31',
         title: 'Mitigasi Bencana di lingkungan Kawasan Karst',
-        authors: ['Muhammad Arsyad', 'Arie Arma Arsyad'],
+        authors: ['Muhammad Arsyad', 'Arie Arma Arsyad', 'Muhammad Arief Fitrah Istiyanto Aslim'],
         cover: Buku31,
     },
     {
@@ -654,5 +654,17 @@ export const kegiatanData = [
         date: "2025-10-27",
         title: "PKM di SMA Muhammadiyah Limbung",
         images: ["/kegiatan/2025/10.jpeg"]
+    },
+    {
+        year: 2025,
+        date: "2025-11-09",
+        title: "Pemilihan Ketua PSI Cabang Makassar Periode 2025-2029",
+        images: ["/kegiatan/2025/11.jpeg"]
+    },
+    {
+        year: 2026,
+        date: "2026-02-09",
+        title: "Rapat Koordinasi PSI Cabang Makassar",
+        images: ["/kegiatan/2026/1.png"]
     },
 ];

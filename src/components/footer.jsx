@@ -27,24 +27,24 @@ export default function Footer() {
                             Contact Us
                         </p>
                         <address className="not-italic">
-                            <p>Prof. Dr. Arifin, M.T.</p>
-                            <p>Departemen Fisika, Fakultas MIPA, Universitas Hasanuddin</p>
-                            <p>Jl. Perintis Kemerdekaan Km. 10</p>
-                            <p>Kec. Tamalanrea, Kota Makassar, Prov. Sulawesi Selatan</p>
+                            <p>Dr. Khaeruddin, S.Pd., M.Pd.</p>
+                            <p>Jurusan Fisika, Fakultas MIPA, Universitas Negeri Makassar</p>
+                            <p>Jl. Daeng Tata Makassar, Kampus FMIPA UNM Parangtambung</p>
+                            <p>Kec. Tamalate, Kota Makassar, Prov. Sulawesi Selatan</p>
                         </address>
                         <a
-                            href="mailto:arifinpide@gmail.com"
+                            href="mailto:khaeruddin@unm.ac.id"
                             className="mt-4 mr-4 inline-flex items-center gap-2 text-blue-300 hover:text-white hover:underline transition-colors"
                         >
                             <Mail size={16} />
-                            arifinpide@gmail.com
+                            khaeruddin@unm.ac.id
                         </a>
                         <a
-                            href="tel:+6281355470011"
+                            href="tel:+6281355200676"
                             className="mt-2 inline-flex items-center gap-2 text-blue-300 hover:text-white hover:underline transition-colors"
                         >
                             <Phone size={16} />
-                            +62 813-5547-0011
+                            +62 813-5520-0676
                         </a>
                     </div>
                 </div>
