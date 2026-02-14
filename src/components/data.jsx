@@ -671,6 +671,7 @@ export const kegiatanData = [
         year: 2026,
         date: "2026-02-14",
         title: "Rapat Kerja PSI Cabang Makassar 2025-2029",
-        images: ["/kegiatan/2026/2.jpeg"]
+        images: ["/kegiatan/2026/2.jpeg"],
+        slug: "rapat-kerja-psi-cabang-makassar-2025-2029"
     },
 ];

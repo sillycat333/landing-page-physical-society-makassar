@@ -156,46 +156,55 @@ export default function Home() {
                         </Link>
                     </div>
 
-                    <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
-                        {kegiatanTerbaru.map((item, idx) => {
-                            const imageSrc =
-                                item.images && item.images.length > 0
-                                    ? item.images[0]
-                                    : 'https://via.placeholder.com/600x400?text=Kegiatan';
+                   <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+                    {kegiatanTerbaru.map((item, idx) => {
+                        const imageSrc =
+                            item.images && item.images.length > 0
+                                ? item.images[0]
+                                : 'https://via.placeholder.com/600x400?text=Kegiatan';
 
-                            return (
-                                <article
-                                    key={`${item.date}-${idx}`}
-                                    className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden flex flex-col"
-                                >
-                                    <div className="aspect-[4/3] bg-slate-100 overflow-hidden">
-                                        <img
-                                            src={imageSrc}
-                                            alt={item.title}
-                                            className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                                        />
-                                    </div>
-                                    <div className="p-4 flex flex-col flex-1">
-                                        <p className="text-xs font-medium text-blue-600 mb-1">
-                                            {formatDate(item.date)}
-                                        </p>
-                                        <h3 className="font-semibold text-slate-900 text-sm mb-3 line-clamp-2">
+                        // Tentukan path tujuan: Jika ada slug, arahkan ke post, jika tidak ke daftar kegiatan
+                        const detailLink = item.slug ? `/post/${item.slug}` : '/kegiatan';
+
+                        return (
+                            <article
+                                key={`${item.date}-${idx}`}
+                                className="bg-white rounded-2xl shadow-sm border border-slate-200 overflow-hidden flex flex-col group"
+                            >
+                                {/* Membungkus gambar agar bisa diklik jika ada slug */}
+                                <Link to={detailLink} className="aspect-[4/3] bg-slate-100 overflow-hidden block">
+                                    <img
+                                        src={imageSrc}
+                                        alt={item.title}
+                                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                                    />
+                                </Link>
+                                
+                                <div className="p-4 flex flex-col flex-1">
+                                    <p className="text-xs font-medium text-blue-600 mb-1">
+                                        {formatDate(item.date)}
+                                    </p>
+                                    
+                                    {/* Judul juga bisa diklik */}
+                                    <Link to={detailLink}>
+                                        <h3 className="font-semibold text-slate-900 text-sm mb-3 line-clamp-2 hover:text-blue-700 transition-colors">
                                             {item.title}
                                         </h3>
+                                    </Link>
 
-                                        <div className="mt-auto pt-2">
-                                            <Link
-                                                to="/kegiatan"
-                                                className="inline-flex text-xs font-semibold text-blue-700 hover:text-blue-900"
-                                            >
-                                                Lihat Detail
-                                            </Link>
-                                        </div>
+                                    <div className="mt-auto pt-2">
+                                        <Link
+                                            to={detailLink}
+                                            className="inline-flex text-xs font-semibold text-blue-700 hover:text-blue-900"
+                                        >
+                                            {item.slug ? 'Lihat Detail' : 'Lihat Detail'}
+                                        </Link>
                                     </div>
-                                </article>
-                            );
-                        })}
-                    </div>
+                                </div>
+                            </article>
+                        );
+                    })}
+                </div>
 
                     <div className="mt-6 md:hidden">
                         <Link

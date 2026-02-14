@@ -55,50 +55,61 @@ export default function Kegiatan() {
                 <main className="flex-1">
                     <div className="flex items-center justify-between gap-3 mb-4">
                         <h2 className="text-xl font-bold text-slate-900">
-                            Kegiatan Tahun {selectedYear}
+                        Kegiatan Tahun {selectedYear}
                         </h2>
                         <p className="text-xs uppercase tracking-wide text-blue-700 font-semibold hidden sm:block">
-                            Physical Society of Indonesia · Cabang Makassar
+                        Physical Society of Indonesia · Cabang Makassar
                         </p>
                     </div>
 
                     {filteredKegiatan.length === 0 ? (
                         <p className="text-sm text-slate-500">
-                            Belum ada data kegiatan untuk tahun ini.
+                        Belum ada data kegiatan untuk tahun ini.
                         </p>
                     ) : (
                         <div className="grid gap-6 md:grid-cols-2">
-                            {filteredKegiatan.map((item, index) => (
-                                <article
-                                    key={`${item.year}-${index}-${item.title}`}
-                                    className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden flex flex-col"
-                                >
-                                    {item.images?.[0] && (
-                                        <div className="aspect-video overflow-hidden">
-                                            <img
-                                                src={item.images[0]}
-                                                alt={item.title}
-                                                className="w-full h-full object-cover"
-                                            />
-                                        </div>
-                                    )}
+                        {filteredKegiatan.map((item, index) => {
+                            const ContainerTag = item.slug ? 'a' : 'div';
+                            const containerProps = item.slug 
+                            ? { href: `/post/${item.slug}`, className: "group block" } 
+                            : {};
 
-                                    <div className="p-4 sm:p-5 flex-1 flex flex-col">
-                                        <p className="text-xs font-semibold text-blue-600 uppercase tracking-wide">
-                                            {item.year}
-                                        </p>
-                                        <h3 className="mt-1 text-base sm:text-lg font-semibold text-slate-900">
-                                            {item.title}
-                                        </h3>
-                                        <p className="text-sm text-slate-600 mt-1">
-                                            {formatDate(item.date)}
-                                        </p>
+                            return (
+                            <article
+                                key={`${item.year}-${index}-${item.title}`}
+                                className="bg-white rounded-2xl border border-slate-200 shadow-sm overflow-hidden flex flex-col hover:border-blue-300 transition-colors"
+                            >
+                                {/* Bungkus Gambar & Judul dengan Link Opsional */}
+                                <ContainerTag {...containerProps}>
+                                {item.images?.[0] && (
+                                    <div className="aspect-video overflow-hidden">
+                                    <img
+                                        src={item.images[0]}
+                                        alt={item.title}
+                                        className={`w-full h-full object-cover transition-transform duration-500 ${item.slug ? 'group-hover:scale-110' : ''}`}
+                                    />
                                     </div>
-                                </article>
-                            ))}
+                                )}
+
+                                <div className="p-4 sm:p-5 flex-1 flex flex-col">
+                                    <p className="text-xs font-semibold text-blue-600 uppercase tracking-wide">
+                                    {item.year}
+                                    </p>
+                                    <h3 className={`mt-1 text-base sm:text-lg font-semibold text-slate-900 ${item.slug ? 'group-hover:text-blue-700' : ''}`}>
+                                    {item.title}
+                                    
+                                    </h3>
+                                    <p className="text-sm text-slate-600 mt-1">
+                                    {formatDate(item.date)}
+                                    </p>
+                                </div>
+                                </ContainerTag>
+                            </article>
+                            );
+                        })}
                         </div>
                     )}
-                </main>
+                    </main>
             </div>
         </div>
     );

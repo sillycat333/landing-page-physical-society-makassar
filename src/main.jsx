@@ -13,7 +13,9 @@ import {
 } from "react-router-dom";
 import Kegiatan from './route/kegiatan.jsx'
 import Buku from './route/buku.jsx'
-
+import PostDetail from './route/postDetails.jsx'
+import { Buffer } from 'buffer';
+window.Buffer = Buffer;
 
 const Layout = () => (
     <>
@@ -47,8 +49,12 @@ const router = createBrowserRouter([
                 element: <ADART />
             },
             {
-                path: "/tentang",
+                path: "/tentang", 
                 element: <Tentang />
+            },
+            {
+                path: "/post/:slug",
+                element: <PostDetail />
             },
         ]
     },
