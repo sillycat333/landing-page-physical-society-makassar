@@ -1,3 +1,4 @@
+import { useEffect } from "react";
 import { useParams, Link } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 import { getPostBySlug } from "../utils/postHelper";
@@ -5,6 +6,10 @@ import { getPostBySlug } from "../utils/postHelper";
 function PostDetail() {
   const { slug } = useParams();
   const post = getPostBySlug(slug);
+  useEffect(() => {
+  
+        window.scrollTo(0, 0);
+    }, [slug]);
 
   if (!post) {
     return (
