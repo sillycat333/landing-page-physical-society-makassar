@@ -1,4 +1,4 @@
-import SKPengurus from "/art/SK_perubahan.pdf"
+import SKPengurus from "../assets/pengurus2025-2029.pdf"
 import ART from "/art/adart.pdf"
 
 export default function ADART() {

@@ -40,6 +40,13 @@ export default function Footer() {
                             khaeruddin@unm.ac.id
                         </a>
                         <a
+                            href="mailto:psicabangmakassar@gmail.com"
+                            className="mt-4 mr-4 inline-flex items-center gap-2 text-blue-300 hover:text-white hover:underline transition-colors"
+                        >
+                            <Mail size={16} />
+                            psicabangmakassar@gmail.com
+                        </a>
+                        <a
                             href="tel:+6281355200676"
                             className="mt-2 inline-flex items-center gap-2 text-blue-300 hover:text-white hover:underline transition-colors"
                         >

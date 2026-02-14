@@ -7,7 +7,7 @@ function formatDate(dateString) {
 }
 
 export default function Kegiatan() {
-    const [selectedYear, setSelectedYear] = useState(2025);
+    const [selectedYear, setSelectedYear] = useState(2026);
 
     const years = Array.from(new Set(kegiatanData.map((k) => k.year))).sort(
         (a, b) => b - a
