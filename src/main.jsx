@@ -9,7 +9,8 @@ import Footer from "./components/footer.jsx"
 import {
     createBrowserRouter,
     RouterProvider,
-    Outlet
+    Outlet,
+    ScrollRestoration
 } from "react-router-dom";
 import Kegiatan from './route/kegiatan.jsx'
 import Buku from './route/buku.jsx'
@@ -19,6 +20,7 @@ window.Buffer = Buffer;
 
 const Layout = () => (
     <>
+        <ScrollRestoration />
         <Navbar />
         <section className="max-w-7xl m-auto">
             <Outlet />
