@@ -27,4 +27,6 @@ Rencana strategis ini telah disusun secara komprehensif untuk jangka panjang hin
 
 Pertemuan ini dihadiri oleh para pengurus yang berasal dari berbagai latar belakang perguruan tinggi di Sulawesi dan sekitarnya. Kehadiran perwakilan dari berbagai PTN dan PTS ini menjadi bukti kuatnya solidaritas komunitas fisika di wilayah timur dalam memajukan keilmuan di tanah air.
 
+![Raker PSI Cabang Makassar](/kegiatan/2026/3-3.png)
+
 ---
