@@ -678,7 +678,7 @@ export const kegiatanData = [
         year: 2026,
         date: "2026-03-07",
         title: "Sosialisasi Program Kerja PSI Cabang Makassar 2025-2029",
-        images: ["/kegiatan/2026/3.jpeg"],
+        images: ["/kegiatan/2026/3.png"],
         slug: "sosialisasi-program-kerja-psi-cabang-makassar-2025-2029"
     },
 ];
