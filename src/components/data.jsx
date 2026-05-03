@@ -681,4 +681,11 @@ export const kegiatanData = [
         images: ["/kegiatan/2026/3.png"],
         slug: "sosialisasi-program-kerja-psi-cabang-makassar-2025-2029"
     },
+    {
+        year: 2026,
+        date: "2026-05-03",
+        title: "PKM: Sosialisasi Sistem Irigasi Cerdas di Kabupaten Kepulauan Selayar",
+        images: ["/kegiatan/2026/4.jpeg"],
+        slug: "pkm-sosialisasi-sistem-irigasi-cerdas-di-kabupaten-kepulauan-selayar"
+    },
 ];
