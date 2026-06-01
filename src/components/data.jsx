@@ -40,6 +40,7 @@ import Buku39 from "../assets/buku-39.png"
 import Buku40 from "../assets/buku-40.png"
 import Buku41 from "../assets/buku-41.png"
 import Buku42 from "../assets/buku-42.png"
+import Buku43 from "../assets/buku-43.jpeg"
 
 
 export const books = [
@@ -296,6 +297,12 @@ export const books = [
         title: 'Pengantar Radiasi Sinkrotron: Teknik Analisis dan Aplikasinya dalam Pengembangan Material Maju',
         authors: ['Husain dkk'],
         cover: Buku42,
+    },
+    {
+        id: 'buku-43',
+        title: 'Teknologi Sensor Elektronik dan Implementasi Arduino Uno',
+        authors: ['Ida Laila dan Arifin'],
+        cover: Buku43,
     },
 ];
 
