@@ -695,4 +695,11 @@ export const kegiatanData = [
         images: ["/kegiatan/2026/4.jpeg"],
         slug: "pkm-sosialisasi-sistem-irigasi-cerdas-di-kabupaten-kepulauan-selayar"
     },
+    {
+        year: 2026,
+        date: "2026-06-20",
+        title: "Sidang Majelis PSI Pusat di Jakarta",
+        images: ["/kegiatan/2026/5.jpeg"],
+        slug: "sidang-majelis-psi-pusat-di-jakarta"
+    }
 ];
