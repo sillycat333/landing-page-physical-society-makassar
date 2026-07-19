@@ -697,9 +697,23 @@ export const kegiatanData = [
     },
     {
         year: 2026,
+        date: "2026-06-18",
+        title: "PKM: Optimalisasi Pembelajaran Mendalam melalui Modul Ajar Interaktif",
+        images: ["/kegiatan/2026/6-2.jpeg"],
+        slug: "pkm-optimalisasi-pembelajaran-mendalam-melalui-modul-ajar-interaktif"
+    },
+    {
+        year: 2026,
         date: "2026-06-20",
         title: "Sidang Majelis PSI Pusat di Jakarta",
         images: ["/kegiatan/2026/5.jpeg"],
         slug: "sidang-majelis-psi-pusat-di-jakarta"
+    },
+    {
+        year: 2026,
+        date: "2026-07-17",
+        title: "PKM: Penguatan Kapasistas Guru Berbasis Taksonomi Solo dan Optimalisasi Proses Belajar Siswa",
+        images: ["/kegiatan/2026/7-4.jpeg"],
+        slug: "pkm-penguatan-kapasistas-guru-berbasis-taksonomi-solo-dan-optimalisasi-proses-belajar-siswa"
     }
 ];
