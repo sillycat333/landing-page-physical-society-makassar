@@ -715,5 +715,12 @@ export const kegiatanData = [
         title: "PKM: Penguatan Kapasistas Guru Berbasis Taksonomi Solo dan Optimalisasi Proses Belajar Siswa",
         images: ["/kegiatan/2026/7-4.jpeg"],
         slug: "pkm-penguatan-kapasistas-guru-berbasis-taksonomi-solo-dan-optimalisasi-proses-belajar-siswa"
-    }
+    },
+    {
+        year: 2026,
+        date: "2026-07-20",
+        title: "PKM: Integrasi STEAM pada Modul Ajar berbasis Deep Learning",
+        images: ["/kegiatan/2026/8-2.jpeg"],
+        slug: "pkm-integrasi-steam-pada-modul-ajar"
+    },
 ];
