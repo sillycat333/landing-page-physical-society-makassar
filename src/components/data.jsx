@@ -723,4 +723,18 @@ export const kegiatanData = [
         images: ["/kegiatan/2026/8-2.jpeg"],
         slug: "pkm-integrasi-steam-pada-modul-ajar"
     },
+    {
+        year: 2026,
+        date: "2026-07-20",
+        title: "Physics Goes To School: Series #1",
+        images: ["/kegiatan/2026/9.jpeg"],
+        slug: "physics-goes-to-school-series-1"
+    },
+    {
+        year: 2026,
+        date: "2026-07-21",
+        title: "PKM: Translasi Hasil Penelitian Menjadi SOP Mitigasi Risiko TN Babul",
+        images: ["/kegiatan/2026/10.jpeg"],
+        slug: "pkm-translasi-hasil-penelitian-menjadi-sop-mitigasi-risiko-tn-babul"
+    },
 ];
