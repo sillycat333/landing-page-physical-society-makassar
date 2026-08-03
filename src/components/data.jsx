@@ -737,4 +737,12 @@ export const kegiatanData = [
         images: ["/kegiatan/2026/10.jpeg"],
         slug: "pkm-translasi-hasil-penelitian-menjadi-sop-mitigasi-risiko-tn-babul"
     },
+    {
+        year: 2026,
+        date: "2026-08-02",
+        title: "PKM: Pemberdayaan Kelompok Tani Sarroanging dalam Peningkatan Nilai Ekonomis Kopi Sangrai Melalui Edukasi Mutu Aroma Berbasis Teknologi Electronic Nose",
+        images: ["/kegiatan/2026/11.JPG"],
+        slug: "pkm-pemberdayaan-kelompok-tani-sarroanging-dalam-peningkatan-nilai-ekonomis-kopi-sangrai"
+    },
+    
 ];
