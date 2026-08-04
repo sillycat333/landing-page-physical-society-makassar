@@ -744,5 +744,11 @@ export const kegiatanData = [
         images: ["/kegiatan/2026/11.JPG"],
         slug: "pkm-pemberdayaan-kelompok-tani-sarroanging-dalam-peningkatan-nilai-ekonomis-kopi-sangrai"
     },
-    
+    {
+        year: 2026,
+        date: "2026-08-04",
+        title: "Seminar Populer Fisika: Uncertainty and Trust in Science",
+        images: ["/kegiatan/2026/12.jpeg"],
+        slug: "seminar-populer-fisika-uncertainty-and-trust-in-science"
+    },
 ];
