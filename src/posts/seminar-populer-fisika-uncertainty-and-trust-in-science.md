@@ -10,7 +10,7 @@ category: "Seminar Populer Fisika"
 
 ## Seminar Populer Fisika: Pakar SNU Korea Bahas Kepercayaan Publik terhadap Sains
 
-**Makassar, 4 Agustus 2026** — PSI Cabang Makassar berkolaborasi dengan UniversitasJurusan Fisika FMIPA Universitas Negeri Makassar (UNM) dalam penyelenggaraan kuliah tamu. Acara berlangsung secara hybrid dan diikuti sekitar 230 peserta dari kalangan dosen, mahasiswa, guru, hingga masyarakat umum.
+**Makassar, 4 Agustus 2026** — PSI Cabang Makassar berkolaborasi dengan Jurusan Fisika FMIPA Universitas Negeri Makassar (UNM) dalam penyelenggaraan kuliah tamu. Acara tersebut berlangsung secara hybrid dan diikuti sekitar 230 peserta dari kalangan dosen, mahasiswa, guru, hingga masyarakat umum.
 
 Pembicara yang dihadirkan adalah **Prof. Jinwoong Song, Ph.D.**, akademisi dari Seoul National University, Korea Selatan, salah satu perguruan tinggi terkemuka di dunia. Kehadirannya membawa perspektif internasional bagi pengembangan riset dan pendidikan sains.
 
