@@ -2,6 +2,7 @@
 title: "PKM: Penguatan Kapasistas Guru Berbasis Taksonomi Solo dan Optimalisasi Proses Belajar Siswa"
 date: "2026-07-17"
 author: "Admin"
+description: "Jurusan Fisika FMIPA UNM dan PSI Cabang Makassar menyelenggarakan PKM di MAN 1 Bone fokus pada Taksonomi SOLO, coding, dan generative AI dalam sains."
 featuredImage: "/kegiatan/2026/7-4.jpeg"
 slug: "pkm-penguatan-kapasistas-guru-berbasis-taksonomi-solo-dan-optimalisasi-proses-belajar-siswa"
 category: "PKM"

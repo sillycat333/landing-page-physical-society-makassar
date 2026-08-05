@@ -2,6 +2,7 @@
 title: "Raker Physical Society of Indonesia Cabang Makassar: Fisika untuk Masa Depan"
 date: "2026-02-14"
 author: "Admin"
+description: "PSI Cabang Makassar menggelar Rapat Kerja 2025-2029 bertema Fisika untuk Masa Depan di Lynt Hotel Makassar untuk perumusan program kerja strategis."
 featuredImage: "/kegiatan/2026/2.jpeg"
 slug: "rapat-kerja-psi-cabang-makassar-2025-2029"
 category: "Rapat"

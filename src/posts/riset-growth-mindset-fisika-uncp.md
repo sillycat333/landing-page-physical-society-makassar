@@ -2,12 +2,11 @@
 title: "Dosen UNCP Teliti Pengaruh Growth Mindset terhadap Berpikir Kritis Fisika Siswa SMA"
 date: "2026-08-04"
 author: "Admin"
+description: "Tim dosen UNCP meneliti pengaruh intervensi growth mindset terhadap kemampuan berpikir kritis siswa SMA dalam pembelajaran fisika di SMAN 11 Luwu."
 featuredImage: "/kegiatan/2026/13.jpeg"
 slug: "riset-growth-mindset-fisika-uncp"
 category: "Berita Fisika"
 ---
-
-## Dosen UNCP Teliti Pengaruh Growth Mindset terhadap Kemampuan Berpikir Kritis Fisika Siswa SMA
 
 **Palopo, 4 Agustus 2026** — Tim dosen Universitas Cokroaminoto Palopo (UNCP) menuntaskan penelitian skema Penelitian Dosen Pemula (PDP) Tahun 2026 yang mengkaji pengaruh intervensi *growth mindset* terhadap peningkatan keterampilan berpikir kritis siswa pada pembelajaran fisika, sekaligus melihat perbedaan respons berdasarkan gender peserta didik. Kegiatan penelitian dilaksanakan di SMAN 11 Luwu dalam dua tahap, yaitu pada 24 dan 31 Juli 2026.
 

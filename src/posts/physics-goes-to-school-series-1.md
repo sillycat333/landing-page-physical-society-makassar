@@ -2,6 +2,7 @@
 title: "Physics Goes To School: Series #1"
 date: "2026-07-20"
 author: "Admin"
+description: "PSI Cabang Makassar dan HMJ Fisika FMIPA UNM menggelar Physics Goes to School #1 di SMAN 11 Jeneponto untuk meningkatkan minat siswa pada fisika."
 featuredImage: "/kegiatan/2026/9.jpeg"
 slug: "physics-goes-to-school-series-1"
 category: "Physics Goes To School"

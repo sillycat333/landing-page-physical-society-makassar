@@ -2,6 +2,7 @@
 title: "PKM: Integrasi STEAM pada Modul Ajar berbasis Deep Learning"
 date: "2026-06-20"
 author: "Admin"
+description: "Dosen UNISMUH Makassar dan PSI Cabang Makassar menggelar PKM integrasi STEAM berbasis deep learning pada modul ajar di SD Negeri 3 Kasimpureng Bulukumba."
 featuredImage: "/kegiatan/2026/8-2.jpeg"
 slug: "pkm-integrasi-steam-pada-modul-ajar"
 category: "PKM"

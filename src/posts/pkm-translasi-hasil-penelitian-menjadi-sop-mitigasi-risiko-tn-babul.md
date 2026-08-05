@@ -2,6 +2,7 @@
 title: "PKM: Translasi Hasil Penelitian Menjadi SOP Mitigasi Risiko TN Babul"
 date: "2026-07-21"
 author: "Admin"
+description: "PSI Cabang Makassar dan Prodi Magister Fisika UNM menyusun SOP mitigasi risiko gas radon untuk wisata gua di Taman Nasional Bantimurung Bulusaraung."
 featuredImage: "/kegiatan/2026/10.jpeg"
 slug: "pkm-translasi-hasil-penelitian-menjadi-sop-mitigasi-risiko-tn-babul"
 category: "Physics Goes To School"

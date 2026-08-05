@@ -2,6 +2,7 @@
 title: "Sidang Majelis Physical Society of Indonesia (PSI)"
 date: "2026-02-20"
 author: "Admin"
+description: "Sidang Majelis PSI diselenggarakan di Jakarta sebagai forum koordinasi, pengesahan pengurus cabang, dan perumusan keputusan strategis organisasi."
 featuredImage: "/kegiatan/2026/5.jpeg"
 slug: "sidang-majelis-psi-pusat-di-jakarta"
 category: "Rapat"

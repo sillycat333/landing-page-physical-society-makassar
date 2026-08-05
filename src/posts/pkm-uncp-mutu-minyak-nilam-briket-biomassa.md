@@ -2,12 +2,11 @@
 title: "PKM UNCP Perkenalkan Teknologi Peningkatan Mutu Minyak Nilam dan Briket Biomassa"
 date: "2026-06-30"
 author: "Admin"
+description: "Tim PKM UNCP memperkenalkan teknologi pemurnian minyak nilam dan pengolahan limbah penyulingan menjadi briket biomassa bagi petani nilam di Luwu."
 featuredImage: "/kegiatan/2026/15.jpeg"
 slug: "pkm-uncp-mutu-minyak-nilam-briket-biomassa"
 category: "PKM"
 ---
-
-## PKM UNCP Perkenalkan Teknologi Peningkatan Mutu Minyak Nilam dan Briket Biomassa
 
 **Luwu, 30 Juni 2026** — Universitas Cokroaminoto Palopo (UNCP) menjalankan Program Pemberdayaan Kemitraan Masyarakat (PKM) untuk memperkenalkan teknologi peningkatan mutu minyak nilam sekaligus inovasi pengolahan limbah penyulingan menjadi briket biomassa. Kegiatan ini menyasar Kelompok Tani Nilam di Desa Padang Kamburi, Kecamatan Bupon, Kabupaten Luwu, dan didanai oleh Direktorat Penelitian dan Pengabdian kepada Masyarakat, Kementerian Pendidikan Tinggi, Sains, dan Teknologi.
 

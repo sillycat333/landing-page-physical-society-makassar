@@ -2,6 +2,7 @@
 title: "PKM: Optimalisasi Pembelajaran Menengah Melalui Modul Ajar Interaktif"
 date: "2026-06-18"
 author: "Admin"
+description: "Tim dosen UNISMUH Makassar dan PSI Cabang Makassar mengadakan PKM pengoptimalan pembelajaran mendalam via modul ajar interaktif di SMP Muhammadiyah 14."
 featuredImage: "/kegiatan/2026/6-2.jpeg"
 slug: "pkm-optimalisasi-pembelajaran-mendalam-melalui-modul-ajar-interaktif"
 category: "PKM"

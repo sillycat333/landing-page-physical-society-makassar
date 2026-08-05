@@ -2,6 +2,7 @@
 title: "PKM: Sosialisasi Sistem Irigasi Cerdas di Kabupaten Kepulauan Selayar"
 date: "2026-05-03"
 author: "Admin"
+description: "Departemen Fisika FMIPA UNHAS menggelar sosialisasi sistem irigasi cerdas berbasis IoT dan energi surya untuk kelompok tani di Kepulauan Selayar."
 featuredImage: "/kegiatan/2026/4.jpeg"
 slug: "pkm-sosialisasi-sistem-irigasi-cerdas-di-kabupaten-kepulauan-selayar"
 category: "PKM"

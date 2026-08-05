@@ -2,6 +2,7 @@
 title: "PKM: Pemberdayaan Kelompok Tani Sarroanging"
 date: "2026-08-02"
 author: "Admin"
+description: "Jurusan Fisika FMIPA UNM dan PSI Cabang Makassar memberdayakan Kelompok Tani Sarroanging di Gowa melalui teknologi electronic nose untuk mutu kopi sangrai."
 featuredImage: "/kegiatan/2026/11.JPG"
 slug: "pkm-pemberdayaan-kelompok-tani-sarroanging-dalam-peningkatan-nilai-ekonomis-kopi-sangrai"
 category: "PKM"

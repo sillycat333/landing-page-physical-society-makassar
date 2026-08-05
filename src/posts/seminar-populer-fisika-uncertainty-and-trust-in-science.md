@@ -2,6 +2,7 @@
 title: "Seminar Populer Fisika: Uncertainty and Trust in Science"
 date: "2026-08-04"
 author: "Admin"
+description: "PSI Cabang Makassar dan Jurusan Fisika FMIPA UNM menggelar seminar populer fisika menghadirkan Prof. Jinwoong Song dari Seoul National University."
 featuredImage: "/kegiatan/2026/12.jpeg"
 slug: "seminar-populer-fisika-uncertainty-and-trust-in-science"
 category: "Seminar Populer Fisika"

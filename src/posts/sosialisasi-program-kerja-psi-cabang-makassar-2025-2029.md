@@ -2,6 +2,7 @@
 title: "Sosialisasi Program Kerja PSI Cabang Makassar 2025-2029"
 date: "2026-03-07"
 author: "Admin"
+description: "PSI Cabang Makassar menyelenggarakan sosialisasi program kerja 2025-2029 secara daring, berfokus pada pengabdian masyarakat dan pendidikan fisika."
 featuredImage: "/kegiatan/2026/3.png"
 slug: "sosialisasi-program-kerja-psi-cabang-makassar-2025-2029"
 category: "Sosialisasi"
