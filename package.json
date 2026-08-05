@@ -4,8 +4,9 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "vite build && node scripts/generate-sitemap.js",
+    "dev": "node scripts/sync-posts.js && vite",
+    "sync-posts": "node scripts/sync-posts.js",
+    "build": "node scripts/sync-posts.js && vite build && node scripts/generate-sitemap.js",
     "sitemap": "node scripts/generate-sitemap.js",
     "lint": "eslint .",
     "preview": "vite preview"
