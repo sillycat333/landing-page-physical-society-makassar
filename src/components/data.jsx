@@ -751,4 +751,25 @@ export const kegiatanData = [
         images: ["/kegiatan/2026/12.jpeg"],
         slug: "seminar-populer-fisika-uncertainty-and-trust-in-science"
     },
+    {
+        year: 2026,
+        date: "2026-08-04",
+        title: "Dosen UNCP Teliti Pengaruh Growth Mindset terhadap Berpikir Kritis Fisika Siswa SMA",
+        images: ["/kegiatan/2026/13.jpeg"],
+        slug: "riset-growth-mindset-fisika-uncp"
+    },
+    {
+        year: 2026,
+        date: "2026-07-18",
+        title: "Dosen UNCP Perkuat Jejaring Riset Internasional melalui Visiting Research di Jepang",
+        images: ["/kegiatan/2026/14.jpg"],
+        slug: "visiting-research-uncp-jepang"
+    },
+    {
+        year: 2026,
+        date: "2026-06-30",
+        title: "PKM UNCP Perkenalkan Teknologi Peningkatan Mutu Minyak Nilam dan Briket Biomassa",
+        images: ["/kegiatan/2026/15.jpeg"],
+        slug: "pkm-uncp-mutu-minyak-nilam-briket-biomassa"
+    },
 ];
